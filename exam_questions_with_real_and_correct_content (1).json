@@ -1,234 +1,1637 @@
 {
-    "questions": [
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Pregunta 1: ¿En qué casos la solicitud será considerada excesiva según la ley Orgánica 3/2018?",
+      "options": [
         {
-            "number": 1,
-            "stem": "Pregunta 1: ¿En qué casos la solicitud será considerada excesiva según la ley Orgánica 3/2018?",
-            "options": [
-                {
-                    "label": "a",
-                    "text": "Cuando se ejerza el derecho de acceso en más de una ocasión durante el plazo de seis meses."
-                },
-                {
-                    "label": "b",
-                    "text": "Cuando el afectado elija un medio distinto al que se le ofrece que suponga un coste desproporcionado."
-                },
-                {
-                    "label": "c",
-                    "text": "Cuando se ejerza el derecho de acceso en más de cinco ocasiones durante el plazo de seis meses."
-                },
-                {
-                    "label": "d",
-                    "text": "Cuando el afectado solicite una cantidad de datos superior al establecido."
-                }
-            ],
-            "correct_answer": "b"
+          "label": "a",
+          "text": "Cuando se ejerza el derecho de acceso en más de una ocasión durante el plazo de seis meses."
         },
         {
-            "number": 2,
-            "stem": "Pregunta 2: Respecto a lo establecido en la ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, sobre el derecho de acceso ¿En qué casos la solicitud será considerada excesiva?",
-            "options": [
-                {
-                    "label": "a",
-                    "text": "Cuando se ejerza el derecho de acceso en más de una ocasión durante el plazo de seis meses."
-                },
-                {
-                    "label": "b",
-                    "text": "Cuando el afectado elija un medio distinto al que se le ofrece que suponga un coste desproporcionado."
-                },
-                {
-                    "label": "c",
-                    "text": "Cuando se ejerza el derecho de acceso en más de cinco ocasiones durante el plazo de seis meses."
-                },
-                {
-                    "label": "d",
-                    "text": "Cuando el afectado solicite una cantidad de datos superior al establecido."
-                }
-            ],
-            "correct_answer": "b"
+          "label": "b",
+          "text": "Cuando el afectado elija un medio distinto al que se le ofrece que suponga un coste desproporcionado."
         },
         {
-            "number": 3,
-            "stem": "Pregunta 3: ¿De conformidad con la ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho de acceso del afectado se ejercitará de acuerdo con lo establecido en el artículo 15 del?",
-            "options": [
-                {
-                    "label": "a",
-                    "text": "Reglamento (UE) 2014/679."
-                },
-                {
-                    "label": "b",
-                    "text": "Reglamento (UE) 2015/679."
-                },
-                {
-                    "label": "c",
-                    "text": "Reglamento (UE) 2016/679."
-                },
-                {
-                    "label": "d",
-                    "text": "Reglamento (UE) 2017/679."
-                }
-            ],
-            "correct_answer": "c"
+          "label": "c",
+          "text": "Cuando se ejerza el derecho de acceso en más de cinco ocasiones durante el plazo de seis meses."
         },
         {
-            "number": 4,
-            "stem": "Pregunta 4: ¿De conformidad con la ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, los solicitantes de información en qué lengua/s se podrán dirigir a las Administraciones Públicas?",
-            "options": [
-                {
-                    "label": "a",
-                    "text": "Únicamente en español."
-                },
-                {
-                    "label": "b",
-                    "text": "Tanto en inglés como en español."
-                },
-                {
-                    "label": "c",
-                    "text": "En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión."
-                },
-                {
-                    "label": "d",
-                    "text": "En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión, así como en la lengua o lenguas del país de origen del solicitante."
-                }
-            ],
-            "correct_answer": "c"
-        },
-        {
-            "number": 5,
-            "stem": "Pregunta 5: Según establece el artículo 24 de la ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿Cuál es el plazo para reclamar ante el Consejo de Transparencia?",
-            "options": [
-                {
-                    "label": "a",
-                    "text": "La reclamación se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
-                },
-                {
-                    "label": "b",
-                    "text": "La reclamación se interpondrá en el plazo de cuarenta días a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
-                },
-                {
-                    "label": "c",
-                    "text": "La reclamación se interpondrá en el plazo de cuarenta y cinco días a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
-                },
-                {
-                    "label": "d",
-                    "text": "La reclamación se interpondrá en el plazo de dos meses a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
-                }
-            ],
-            "correct_answer": "a"
-        },
-        {
-            "number": 6,
-            "stem": "Pregunta 6: Según la ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres en su artículo 14, ¿Cuáles NO serán criterios generales de actuación de los Poderes Públicos?",
-            "options": [
-                {
-                    "label": "a",
-                    "text": "La integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral, social, cultural y artística, con el fin de evitar la segregación laboral y eliminar las diferencias retributivas, así como potenciar el crecimiento del empresariado femenino en todos los ámbitos que abarque el conjunto de políticas y el valor del trabajo de las mujeres, incluido el doméstico."
-                },
-                {
-                    "label": "b",
-                    "text": "La participación de mujeres y hombres en las candidaturas electorales y en la toma de decisiones en una proporción de 60/40%."
-                },
-                {
-                    "label": "c",
-                    "text": "La implantación de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales, culturales y artísticas."
-                },
-                {
-                    "label": "d",
-                    "text": "El fomento de instrumentos de colaboración entre las distintas Administraciones públicas y los agentes sociales, las asociaciones de mujeres y otras entidades privadas."
-                }
-            ],
-            "correct_answer": "b"
-        },
-        {
-            "number": 7,
-            "stem": "Pregunta 7: Según la ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres en su artículo 29, ¿A quién corresponde promover el deporte femenino?",
-            "options": [
-                {
-                    "label": "a",
-                    "text": "Al Congreso de los Diputados"
-                },
-                {
-                    "label": "b",
-                    "text": "Al Consejo de Ministros."
-                },
-                {
-                    "label": "c",
-                    "text": "Al Gobierno."
-                },
-                {
-                    "label": "d",
-                    "text": "Al Senado."
-                }
-            ],
-            "correct_answer": "c"
-        },
-        {
-            "number": 8,
-            "stem": "Pregunta 8: Entre las partes que acuerdan el II Convenio Colectivo del Personal Laboral de Administración y Servicios de las Universidades Públicas de Castilla y León están:",
-            "options": [
-                {
-                    "label": "a",
-                    "text": "Los sindicatos FETE-UGT, CSI-CSIF, CCOO y STECYL."
-                },
-                {
-                    "label": "b",
-                    "text": "Las universidades de Burgos, León, Salamanca y Valladolid y Los Sindicatos con representación en las mismas."
-                },
-                {
-                    "label": "c",
-                    "text": "Las universidades y los sindicatos de Castilla y León."
-                },
-                {
-                    "label": "d",
-                    "text": "Los sindicatos FETE-UGT y CSI-CSIF."
-                }
-            ],
-            "correct_answer": "d"
-        },
-        {
-            "number": 9,
-            "stem": "Pregunta 9: Según el II Convenio Colectivo del Personal Laboral de Administración y Servicios de las Universidades Públicas de Castilla y León, en relación con la organización del trabajo, ¿quién es responsable de su aplicación práctica?",
-            "options": [
-                {
-                    "label": "a",
-                    "text": "Su aplicación práctica corresponderá a los Rectores."
-                },
-                {
-                    "label": "b",
-                    "text": "Su aplicación práctica corresponderá a los Gerentes."
-                },
-                {
-                    "label": "c",
-                    "text": "Es facultad exclusiva de la Comisión Paritaria."
-                },
-                {
-                    "label": "d",
-                    "text": "Es facultad exclusiva de los Rectores."
-                }
-            ],
-            "correct_answer": "b"
-        },
-        {
-            "number": 10,
-            "stem": "Pregunta 10: Según el artículo 69 del Estatuto de la Universidad de León, en las elecciones a Claustro, en el sector de personal de administración y servicios, ¿cómo se presentarán las candidaturas?",
-            "options": [
-                {
-                    "label": "a",
-                    "text": "Se presentarán candidaturas en listas cerradas."
-                },
-                {
-                    "label": "b",
-                    "text": "Se presentarán candidaturas en listas abiertas."
-                },
-                {
-                    "label": "c",
-                    "text": "Se presentarán candidaturas individuales."
-                },
-                {
-                    "label": "d",
-                    "text": "Se formarán dos colegios electorales."
-                }
-            ],
-            "correct_answer": "c"
+          "label": "d",
+          "text": "Cuando el afectado solicite una cantidad de datos superior al establecido."
         }
-    ]
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 2,
+      "stem": "Pregunta 2: Respecto a lo establecido en la ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, sobre el derecho de acceso ¿En qué casos la solicitud será considerada excesiva?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cuando se ejerza el derecho de acceso en más de una ocasión durante el plazo de seis meses."
+        },
+        {
+          "label": "b",
+          "text": "Cuando el afectado elija un medio distinto al que se le ofrece que suponga un coste desproporcionado."
+        },
+        {
+          "label": "c",
+          "text": "Cuando se ejerza el derecho de acceso en más de cinco ocasiones durante el plazo de seis meses."
+        },
+        {
+          "label": "d",
+          "text": "Cuando el afectado solicite una cantidad de datos superior al establecido."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 3,
+      "stem": "Pregunta 3: ¿De conformidad con la ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho de acceso del afectado se ejercitará de acuerdo con lo establecido en el artículo 15 del?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Reglamento (UE) 2014/679."
+        },
+        {
+          "label": "b",
+          "text": "Reglamento (UE) 2015/679."
+        },
+        {
+          "label": "c",
+          "text": "Reglamento (UE) 2016/679."
+        },
+        {
+          "label": "d",
+          "text": "Reglamento (UE) 2017/679."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 4,
+      "stem": "Pregunta 4: ¿De conformidad con la ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, los solicitantes de información en qué lengua/s se podrán dirigir a las Administraciones Públicas?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Únicamente en español."
+        },
+        {
+          "label": "b",
+          "text": "Tanto en inglés como en español."
+        },
+        {
+          "label": "c",
+          "text": "En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión."
+        },
+        {
+          "label": "d",
+          "text": "En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión, así como en la lengua o lenguas del país de origen del solicitante."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 5,
+      "stem": "Pregunta 5: Según establece el artículo 24 de la ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿Cuál es el plazo para reclamar ante el Consejo de Transparencia?",
+      "options": [
+        {
+          "label": "a",
+          "text": "La reclamación se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
+        },
+        {
+          "label": "b",
+          "text": "La reclamación se interpondrá en el plazo de cuarenta días a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
+        },
+        {
+          "label": "c",
+          "text": "La reclamación se interpondrá en el plazo de cuarenta y cinco días a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
+        },
+        {
+          "label": "d",
+          "text": "La reclamación se interpondrá en el plazo de dos meses a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 6,
+      "stem": "Pregunta 6: Según la ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres en su artículo 14, ¿Cuáles NO serán criterios generales de actuación de los Poderes Públicos?",
+      "options": [
+        {
+          "label": "a",
+          "text": "La integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral, social, cultural y artística, con el fin de evitar la segregación laboral y eliminar las diferencias retributivas, así como potenciar el crecimiento del empresariado femenino en todos los ámbitos que abarque el conjunto de políticas y el valor del trabajo de las mujeres, incluido el doméstico."
+        },
+        {
+          "label": "b",
+          "text": "La participación de mujeres y hombres en las candidaturas electorales y en la toma de decisiones en una proporción de 60/40%."
+        },
+        {
+          "label": "c",
+          "text": "La implantación de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales, culturales y artísticas."
+        },
+        {
+          "label": "d",
+          "text": "El fomento de instrumentos de colaboración entre las distintas Administraciones públicas y los agentes sociales, las asociaciones de mujeres y otras entidades privadas."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 7,
+      "stem": "Pregunta 7: Según la ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres en su artículo 29, ¿A quién corresponde promover el deporte femenino?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Al Congreso de los Diputados"
+        },
+        {
+          "label": "b",
+          "text": "Al Consejo de Ministros."
+        },
+        {
+          "label": "c",
+          "text": "Al Gobierno."
+        },
+        {
+          "label": "d",
+          "text": "Al Senado."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 8,
+      "stem": "Pregunta 8: Entre las partes que acuerdan el II Convenio Colectivo del Personal Laboral de Administración y Servicios de las Universidades Públicas de Castilla y León están:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Los sindicatos FETE-UGT, CSI-CSIF, CCOO y STECYL."
+        },
+        {
+          "label": "b",
+          "text": "Las universidades de Burgos, León, Salamanca y Valladolid y Los Sindicatos con representación en las mismas."
+        },
+        {
+          "label": "c",
+          "text": "Las universidades y los sindicatos de Castilla y León."
+        },
+        {
+          "label": "d",
+          "text": "Los sindicatos FETE-UGT y CSI-CSIF."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 9,
+      "stem": "Pregunta 9: Según el II Convenio Colectivo del Personal Laboral de Administración y Servicios de las Universidades Públicas de Castilla y León, en relación con la organización del trabajo, ¿quién es responsable de su aplicación práctica?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Su aplicación práctica corresponderá a los Rectores."
+        },
+        {
+          "label": "b",
+          "text": "Su aplicación práctica corresponderá a los Gerentes."
+        },
+        {
+          "label": "c",
+          "text": "Es facultad exclusiva de la Comisión Paritaria."
+        },
+        {
+          "label": "d",
+          "text": "Es facultad exclusiva de los Rectores."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 10,
+      "stem": "Pregunta 10: Según el artículo 69 del Estatuto de la Universidad de León, en las elecciones a Claustro, en el sector de personal de administración y servicios, ¿cómo se presentarán las candidaturas?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Se presentarán candidaturas en listas cerradas."
+        },
+        {
+          "label": "b",
+          "text": "Se presentarán candidaturas en listas abiertas."
+        },
+        {
+          "label": "c",
+          "text": "Se presentarán candidaturas individuales."
+        },
+        {
+          "label": "d",
+          "text": "Se formarán dos colegios electorales."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 11,
+      "stem": "Pregunta 11: Según el artículo 80 del Estatuto de la Universidad de León, ¿cuál NO es una función del Rector?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Suscribir convenios y contratos en nombre de la Universidad."
+        },
+        {
+          "label": "b",
+          "text": "Acordar la concesión de distinciones y honores."
+        },
+        {
+          "label": "c",
+          "text": "Velar por el cumplimiento de la legalidad en todas las actuaciones de la Universidad."
+        },
+        {
+          "label": "d",
+          "text": "Nombrar a los miembros de las comisiones de selección del personal docente e investigador y de administración y servicios, funcionario y contratado."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 12,
+      "stem": "Pregunta 12: ¿Cuál es el objetivo de la acción permanente de seguimiento de la actividad preventiva del empresario según el artículo 14 de la ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Reducir costes."
+        },
+        {
+          "label": "b",
+          "text": "Perfeccionar continuamente las actividades de identificación, evaluación y control de riesgos."
+        },
+        {
+          "label": "c",
+          "text": "Cumplir con los requerimientos legales mínimos."
+        },
+        {
+          "label": "d",
+          "text": "Mejorar la productividad."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 13,
+      "stem": "Pregunta 13: ¿Qué necesita un trabajador para que pueda acceder a las zonas de riesgo grave y específico, según el artículo 15.3 de la ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Tener permiso del supervisor."
+        },
+        {
+          "label": "b",
+          "text": "Haber recibido información suficiente y adecuada."
+        },
+        {
+          "label": "c",
+          "text": "Disponer de equipamiento especial."
+        },
+        {
+          "label": "d",
+          "text": "Tener aprobación del comité de seguridad."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 14,
+      "stem": "Pregunta 14: Según el artículo 22.5 de la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, en los supuestos en que la naturaleza de los riesgos inherentes al trabajo lo haga necesario, el derecho de los trabajadores a la vigilancia periódica de su estado de salud?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Podrá ser realizada mensualmente."
+        },
+        {
+          "label": "b",
+          "text": "Es irrenunciable."
+        },
+        {
+          "label": "c",
+          "text": "Conlleva que las conclusiones que se deriven de los reconocimientos efectuados en relación con la aptitud del trabajador para el desempeño del puesto de trabajo sean trasladadas a los órganos con responsabilidades en materia de prevención."
+        },
+        {
+          "label": "d",
+          "text": "Deberá ser prolongado más allá de la finalización de la relación laboral, en los términos que reglamentariamente se determinen."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 15,
+      "stem": "Pregunta 15: En el ámbito del CTE (Código Técnico de la Edificación), indicar la pendiente mínima, en porcentaje, de una cubierta de pizarra:",
+      "options": [
+        {
+          "label": "a",
+          "text": "15%."
+        },
+        {
+          "label": "b",
+          "text": "20%."
+        },
+        {
+          "label": "c",
+          "text": "40%."
+        },
+        {
+          "label": "d",
+          "text": "60%."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 16,
+      "stem": "Pregunta 16: Según el RD 396/2006, de 31 de marzo, sobre amianto, la utilización de los equipos de protección individual de las vías respiratorias no podrá superar un tiempo de utilización diario de:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Las horas que marque la jornada laboral."
+        },
+        {
+          "label": "b",
+          "text": "Transcurrido el tiempo en el que se aprecia que debe ser sustituida."
+        },
+        {
+          "label": "c",
+          "text": "6 horas."
+        },
+        {
+          "label": "d",
+          "text": "4 horas."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 17,
+      "stem": "Pregunta 17: En el ámbito del CTE, la grava suelta en las cubiertas solo puede emplearse en:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cubiertas con pendiente menor del 5%."
+        },
+        {
+          "label": "b",
+          "text": "Cubiertas con pendiente mayor del 5%."
+        },
+        {
+          "label": "c",
+          "text": "Cubiertas con pendiente igual al 5%."
+        },
+        {
+          "label": "d",
+          "text": "No importa la pendiente."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 18,
+      "stem": "Pregunta 18: Señala los fenómenos que pueden originar humedades:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Capilaridad y condensación."
+        },
+        {
+          "label": "b",
+          "text": "Capilaridad y floculación."
+        },
+        {
+          "label": "c",
+          "text": "Filtración y colmatación."
+        },
+        {
+          "label": "d",
+          "text": "Eflorescencia y absorción."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 19,
+      "stem": "Pregunta 19: Para una pasta de yeso con la misma relación agua/yeso, ¿a mayor tiempo de amasado?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Menor tiempo de fraguado."
+        },
+        {
+          "label": "b",
+          "text": "Mayor tiempo de fraguado."
+        },
+        {
+          "label": "c",
+          "text": "No influye el tiempo de amasado en el tiempo de fraguado."
+        },
+        {
+          "label": "d",
+          "text": "El tiempo de fraguado solo depende de la cantidad de agua."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 20,
+      "stem": "Pregunta 20: ¿Cuál de estas afirmaciones es correcta?",
+      "options": [
+        {
+          "label": "a",
+          "text": "El suelo porcelánico tiende a astillarse más que el cerámico."
+        },
+        {
+          "label": "b",
+          "text": "El suelo cerámico es más antideslizante que el porcelánico."
+        },
+        {
+          "label": "c",
+          "text": "El suelo porcelánico tiende a ser más resistente y duradero que el cerámico."
+        },
+        {
+          "label": "d",
+          "text": "El suelo porcelánico y cerámico son semejantes en características."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 21,
+      "stem": "Pregunta 21: ¿Qué se entiende por revestimiento de un paramento?",
+      "options": [
+        {
+          "label": "a",
+          "text": "La colocación de alicatados, piezas o piedra natural en una pared para protegerla."
+        },
+        {
+          "label": "b",
+          "text": "El rejuntado de las piezas."
+        },
+        {
+          "label": "c",
+          "text": "La impermeabilización."
+        },
+        {
+          "label": "d",
+          "text": "La colocación de barrera de vapor."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 22,
+      "stem": "Pregunta 22: ¿Para pintar carpintería metálica de hierro, indica lo correcto?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Solo se debe pintar con pinturas con base disolvente."
+        },
+        {
+          "label": "b",
+          "text": "Se puede pintar con pinturas al agua."
+        },
+        {
+          "label": "c",
+          "text": "Se pintará solo con pinturas al agua en interior."
+        },
+        {
+          "label": "d",
+          "text": "Se pintará solo con pinturas al disolvente en exterior."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 23,
+      "stem": "Pregunta 23: ¿Las brocas para hierro y madera se diferencian visualmente?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Por el color."
+        },
+        {
+          "label": "b",
+          "text": "Las de madera tienen una pequeña punta centradora."
+        },
+        {
+          "label": "c",
+          "text": "Las de metal tienen siempre sistema de anclaje SOS."
+        },
+        {
+          "label": "d",
+          "text": "Son iguales visualmente."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 24,
+      "stem": "Pregunta 24: Cuando en carpintería decimos 'de piano' nos estamos refiriendo a:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Un tipo de cerradura."
+        },
+        {
+          "label": "b",
+          "text": "Cualquier herraje."
+        },
+        {
+          "label": "c",
+          "text": "Un oscilo."
+        },
+        {
+          "label": "d",
+          "text": "Un tipo de bisagra."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 25,
+      "stem": "Pregunta 25: En relación con la pintura intumescente, indica la afirmación correcta:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Se aplica solamente sobre acero para protegerlo químicamente."
+        },
+        {
+          "label": "b",
+          "text": "Se aplica solamente sobre acero para protegerlo del fuego."
+        },
+        {
+          "label": "c",
+          "text": "Se aplica sobre madera, acero u hormigón para protegerlos del fuego."
+        },
+        {
+          "label": "d",
+          "text": "Se aplica sobre madera, acero u hormigón para protegerlos químicamente."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 26,
+      "stem": "Pregunta 26: En relación con la pintura al temple, indica la afirmación correcta:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Se utiliza preferentemente en exteriores. Es transpirable."
+        },
+        {
+          "label": "b",
+          "text": "Se utiliza preferentemente en exteriores. No es transpirable."
+        },
+        {
+          "label": "c",
+          "text": "Se utiliza preferentemente en interiores, paredes y techos. No es transpirable."
+        },
+        {
+          "label": "d",
+          "text": "Se utiliza preferentemente en interiores, paredes y techos. Es transpirable."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 27,
+      "stem": "Pregunta 27: ¿El mildiu es?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Una bacteria."
+        },
+        {
+          "label": "b",
+          "text": "Un liquen."
+        },
+        {
+          "label": "c",
+          "text": "Un hongo."
+        },
+        {
+          "label": "d",
+          "text": "Un virus."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 28,
+      "stem": "Pregunta 28: Cuando un abono compuesto nos muestra un indicativo como por ejemplo 8-8-8, nos está indicando",
+      "options": [
+        {
+          "label": "a",
+          "text": "El contenido en % de P-N-K."
+        },
+        {
+          "label": "b",
+          "text": "El contenido en gr. de N-K-P."
+        },
+        {
+          "label": "c",
+          "text": "El contenido en gr. de K-N-P."
+        },
+        {
+          "label": "d",
+          "text": "El contenido en % de N-P-K."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 29,
+      "stem": "Pregunta 29: ¿Cuál de los siguientes árboles es de hoja perenne?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Almez."
+        },
+        {
+          "label": "b",
+          "text": "Algarrobo."
+        },
+        {
+          "label": "c",
+          "text": "Catalpa."
+        },
+        {
+          "label": "d",
+          "text": "Mella."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 30,
+      "stem": "Pregunta 30: ¿El corte por llama qué mezcla de gases utiliza?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Oxígeno-hidrógeno."
+        },
+        {
+          "label": "b",
+          "text": "Oxígeno-acetileno."
+        },
+        {
+          "label": "c",
+          "text": "Oxígeno-metano."
+        },
+        {
+          "label": "d",
+          "text": "Oxígeno-argón."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 31,
+      "stem": "Pregunta 31: ¿Los tubos de cobre se unen mediante?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Un manguito, aplicación de decapante, estaño y soplete."
+        },
+        {
+          "label": "b",
+          "text": "Un mamelón, aplicación de decapante, estaño y soplete."
+        },
+        {
+          "label": "c",
+          "text": "Un manguito, aplicación de decapante, electrodo y soplete."
+        },
+        {
+          "label": "d",
+          "text": "Un manguito, aplicación de decapante, adhesivo y soplete."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 32,
+      "stem": "Pregunta 32: ¿Los tubos de PVC aptos para uso alimentario se distinguen por?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Línea longitudinal de color verde."
+        },
+        {
+          "label": "b",
+          "text": "Línea longitudinal de color azul."
+        },
+        {
+          "label": "c",
+          "text": "Están marcados cada metro con el distintivo 'AU'."
+        },
+        {
+          "label": "d",
+          "text": "Son de color verde."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 33,
+      "stem": "Pregunta 33: En el ámbito del DB HS, el caudal instantáneo mínimo en dm3/s de agua fría en un lavabo será de:",
+      "options": [
+        {
+          "label": "a",
+          "text": "0.05."
+        },
+        {
+          "label": "b",
+          "text": "0.10."
+        },
+        {
+          "label": "c",
+          "text": "0.15."
+        },
+        {
+          "label": "d",
+          "text": "0.20."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 34,
+      "stem": "Pregunta 34: En el ámbito del DB HS, en los puntos de consumo la presión mínima en kPa en un grifo común será de:",
+      "options": [
+        {
+          "label": "a",
+          "text": "25."
+        },
+        {
+          "label": "b",
+          "text": "50."
+        },
+        {
+          "label": "c",
+          "text": "100."
+        },
+        {
+          "label": "d",
+          "text": "200."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 35,
+      "stem": "Pregunta 35: Según el DB HS del CTE, indicar el diámetro mínimo del tubo de evacuación de una ducha para uso público:",
+      "options": [
+        {
+          "label": "a",
+          "text": "32 mm."
+        },
+        {
+          "label": "b",
+          "text": "40 mm."
+        },
+        {
+          "label": "c",
+          "text": "50 mm."
+        },
+        {
+          "label": "d",
+          "text": "60 mm."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 36,
+      "stem": "Pregunta 36: ¿Por válvula termostática y su instalación se entiende?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Válvula autorreguladora que se instala en la entrada de agua de los radiadores."
+        },
+        {
+          "label": "b",
+          "text": "Válvula autorreguladora que se instala en la salida de agua de los radiadores."
+        },
+        {
+          "label": "c",
+          "text": "Válvula autorreguladora que se instala en la entrada y en la salida de agua de los radiadores."
+        },
+        {
+          "label": "d",
+          "text": "Válvula autorreguladora que se instala en la derivación cruzada de agua de los radiadores."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 37,
+      "stem": "Pregunta 37: ¿Cuál de estas llaves no es de paso?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Mariposa."
+        },
+        {
+          "label": "b",
+          "text": "Bola."
+        },
+        {
+          "label": "c",
+          "text": "Tuerca."
+        },
+        {
+          "label": "d",
+          "text": "Compuerta."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 38,
+      "stem": "Pregunta 38: ¿Una válvula TPR es?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Una válvula que se abre al sobrepasar una presión y una temperatura."
+        },
+        {
+          "label": "b",
+          "text": "Una válvula que se cierra al sobrepasar una presión."
+        },
+        {
+          "label": "c",
+          "text": "Una válvula que se abre al sobrepasarse una presión o una temperatura."
+        },
+        {
+          "label": "d",
+          "text": "Una válvula que se acciona por encima de un caudal determinado."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 39,
+      "stem": "Pregunta 39: Según el Real Decreto 487/2022 sobre legionela, cuando sea de aplicación la revisión, limpieza y desinfección de los depósitos acumuladores de agua fría ésta se realizará, con carácter general?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cada 6 meses."
+        },
+        {
+          "label": "b",
+          "text": "Cada 12 meses."
+        },
+        {
+          "label": "c",
+          "text": "Cada 2 años."
+        },
+        {
+          "label": "d",
+          "text": "Cada 4 años."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 40,
+      "stem": "Pregunta 40: Según el Real Decreto 487/2022 sobre legionela, cuando sea de aplicación, la revisión, limpieza y desinfección de los depósitos acumuladores de agua caliente (ACS) ésta se realizará, con carácter general?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cada dos meses."
+        },
+        {
+          "label": "b",
+          "text": "Cada tres meses."
+        },
+        {
+          "label": "c",
+          "text": "Cada 6 meses."
+        },
+        {
+          "label": "d",
+          "text": "Cada 12 meses."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 41,
+      "stem": "Pregunta 41: ¿Dónde es necesario que el vaso de expansión de una instalación térmica disponga de manómetro?",
+      "options": [
+        {
+          "label": "a",
+          "text": "En instalaciones de potencia térmica nominal mayor que 50 kW."
+        },
+        {
+          "label": "b",
+          "text": "En instalaciones de potencia térmica nominal mayor que 70 kW."
+        },
+        {
+          "label": "c",
+          "text": "En instalaciones de potencia térmica nominal mayor que 100 kW."
+        },
+        {
+          "label": "d",
+          "text": "En instalaciones de potencia térmica nominal mayor que 120 kW."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 42,
+      "stem": "Pregunta 42: ¿Los generadores de calor con combustibles que no sean gases dispondrán de?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Un dispositivo de interrupción de funcionamiento del quemador que impida que se alcancen temperaturas mayores que las de diseño, que será de rearme automático."
+        },
+        {
+          "label": "b",
+          "text": "Un dispositivo de interrupción de funcionamiento del quemador que impida que se alcancen temperaturas menores que las de diseño, que será de rearme manual."
+        },
+        {
+          "label": "c",
+          "text": "Un dispositivo de interrupción de funcionamiento del quemador que impida que se alcancen temperaturas mayores que las de diseño, que será de rearme manual."
+        },
+        {
+          "label": "d",
+          "text": "Un dispositivo de interrupción de funcionamiento del quemador que impida que se alcancen temperaturas menores que las de diseño, que será de rearme automático."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 43,
+      "stem": "Pregunta 43: ¿Los componentes principales de un captador solar plano son?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Carcasa, aislamiento, placa absorbente, tubos de fluido y vidrio templado transparente."
+        },
+        {
+          "label": "b",
+          "text": "Carcasa, aislamiento, placa absorbente, lámina y vidrio templado translucido."
+        },
+        {
+          "label": "c",
+          "text": "Carcasa, aislamiento, placa absorbente, tubos de fluido y cristal."
+        },
+        {
+          "label": "d",
+          "text": "Carcasa, aislamiento, placa absorbente, tubos de fluido y disipador."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 44,
+      "stem": "Pregunta 44: ¿Cuál es la función de un disipador en una instalación de energía solar térmica?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Eliminar y disipar el exceso de presión de la instalación."
+        },
+        {
+          "label": "b",
+          "text": "Eliminar el exceso de calor generado en la instalación."
+        },
+        {
+          "label": "c",
+          "text": "Disipar el aire del circuito."
+        },
+        {
+          "label": "d",
+          "text": "Regular la temperatura de la instalación."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 45,
+      "stem": "Pregunta 45: ¿Cuáles son los componentes principales para su funcionamiento de un sistema de refrigeración?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Compresor, condensador, dispositivo de expansión y evaporador."
+        },
+        {
+          "label": "b",
+          "text": "Sensor de temperatura, sensor de presión y compresor."
+        },
+        {
+          "label": "c",
+          "text": "Compresor, condensador, ventiladores y evaporador."
+        },
+        {
+          "label": "d",
+          "text": "Compresor, refrigerante y válvulas."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 46,
+      "stem": "Pregunta 46: ¿Qué sucede mientras se comprime el aire durante el funcionamiento de un compresor?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Se genera calor."
+        },
+        {
+          "label": "b",
+          "text": "Se genera frío."
+        },
+        {
+          "label": "c",
+          "text": "Es un proceso atérmico."
+        },
+        {
+          "label": "d",
+          "text": "Calor y frío de forma alterna."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 47,
+      "stem": "Pregunta 47: ¿En un aparato o equipo a presión, se entiende por presión de precinto (Pp)?",
+      "options": [
+        {
+          "label": "a",
+          "text": "La presión más alta en las condiciones de funcionamiento, que puede alcanzar un equipo a presión o instalación."
+        },
+        {
+          "label": "b",
+          "text": "La presión a la que está tarado el elemento de seguridad que protege al equipo a presión."
+        },
+        {
+          "label": "c",
+          "text": "La presión máxima que puede soportar el equipo a su máxima potencia de trabajo."
+        },
+        {
+          "label": "d",
+          "text": "La presión a la que está tarado el elemento de presión que protege al equipo a presión."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 48,
+      "stem": "Pregunta 48: ¿Si una botella de gas tiene el cuerpo de color rojo, la ojiva marrón, y la franja marrón, contiene?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Etano."
+        },
+        {
+          "label": "b",
+          "text": "Hidrógeno."
+        },
+        {
+          "label": "c",
+          "text": "Propano."
+        },
+        {
+          "label": "d",
+          "text": "Acetileno."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 49,
+      "stem": "Pregunta 49: ¿El rombo de riesgo de color rojo de una botella de gas significa?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Tóxico."
+        },
+        {
+          "label": "b",
+          "text": "Inflamable."
+        },
+        {
+          "label": "c",
+          "text": "Oxidante."
+        },
+        {
+          "label": "d",
+          "text": "Inerte."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 50,
+      "stem": "Pregunta 50: ¿El color blanco en una botella de gas identifica que contiene?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Oxígeno."
+        },
+        {
+          "label": "b",
+          "text": "Óxido nitroso."
+        },
+        {
+          "label": "c",
+          "text": "Helio."
+        },
+        {
+          "label": "d",
+          "text": "Dióxido de carbono."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 51,
+      "stem": "Pregunta 51: ¿Un extintor de Clase D es adecuado para fuegos en?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Madera, papel."
+        },
+        {
+          "label": "b",
+          "text": "Gasolina, alcohol, parafina."
+        },
+        {
+          "label": "c",
+          "text": "Metales."
+        },
+        {
+          "label": "d",
+          "text": "Aceites y grasas."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 52,
+      "stem": "Pregunta 52: ¿Los dispositivos visuales de alarma de incendio deberán llevar el marcado?",
+      "options": [
+        {
+          "label": "a",
+          "text": "No necesita marcado."
+        },
+        {
+          "label": "b",
+          "text": "ECA."
+        },
+        {
+          "label": "c",
+          "text": "CE."
+        },
+        {
+          "label": "d",
+          "text": "UNE."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 53,
+      "stem": "Pregunta 53: ¿El reglamento electrotécnico de baja tensión (REBT) es de aplicación para las instalaciones exclusivamente de?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Corriente alterna: igual o inferior a 240 voltios."
+        },
+        {
+          "label": "b",
+          "text": "Corriente alterna: igual o inferior a 380 voltios."
+        },
+        {
+          "label": "c",
+          "text": "Corriente alterna: igual o inferior a 1000 voltios."
+        },
+        {
+          "label": "d",
+          "text": "Corriente continua: igual o inferior a 1000 voltios."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 54,
+      "stem": "Pregunta 54: ¿El interruptor magnetotérmico de una instalación eléctrica debe cortar?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Solo la fase."
+        },
+        {
+          "label": "b",
+          "text": "La fase y el neutro."
+        },
+        {
+          "label": "c",
+          "text": "La fase, el neutro y el conductor equipotencial."
+        },
+        {
+          "label": "d",
+          "text": "Solo el neutro."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 55,
+      "stem": "Pregunta 55: ¿La función principal de una batería de condensadores es?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Compensar la energía activa."
+        },
+        {
+          "label": "b",
+          "text": "Aumentar la energía aparente."
+        },
+        {
+          "label": "c",
+          "text": "Compensar la energía reactiva."
+        },
+        {
+          "label": "d",
+          "text": "Disminuir el factor de potencia."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 56,
+      "stem": "Pregunta 56: ¿Un disyuntor eléctrico es?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Un dispositivo de protección para interrumpir manualmente el flujo de corriente en caso de sobrecarga o cortocircuito."
+        },
+        {
+          "label": "b",
+          "text": "Un dispositivo de protección para interrumpir automáticamente el flujo de corriente en caso de sobretensión."
+        },
+        {
+          "label": "c",
+          "text": "Un dispositivo de protección para interrumpir automáticamente el flujo de corriente en caso de sobrecarga o cortocircuito."
+        },
+        {
+          "label": "d",
+          "text": "Un dispositivo de protección para interrumpir automáticamente el flujo de corriente en caso de contacto de la fase con una masa."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 57,
+      "stem": "Pregunta 57: ¿Las inspecciones periódicas de instalaciones eléctricas de BT de un local de pública concurrencia se realizarán cada?",
+      "options": [
+        {
+          "label": "a",
+          "text": "1 año."
+        },
+        {
+          "label": "b",
+          "text": "3 años."
+        },
+        {
+          "label": "c",
+          "text": "5 años."
+        },
+        {
+          "label": "d",
+          "text": "10 años."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 58,
+      "stem": "Pregunta 58: ¿La iluminación se mide en?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Lúmenes."
+        },
+        {
+          "label": "b",
+          "text": "Candelas."
+        },
+        {
+          "label": "c",
+          "text": "Lux."
+        },
+        {
+          "label": "d",
+          "text": "Luminarias."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 59,
+      "stem": "Pregunta 59: ¿Qué se entiende por fotocélula?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Componente electrónico que varía su capacidad eléctrica en función de la cantidad de luz que incide sobre él."
+        },
+        {
+          "label": "b",
+          "text": "Componente electrónico que varía su inclinación en función de la cantidad de luz que incide sobre él."
+        },
+        {
+          "label": "c",
+          "text": "Componente electrónico que varía su resistencia eléctrica en función de la cantidad de tensión que incide sobre él."
+        },
+        {
+          "label": "d",
+          "text": "Componente electrónico que varía su resistencia eléctrica en función de la cantidad de luz que incide sobre él."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 60,
+      "stem": "Pregunta 60: ¿Señala cuál de las siguientes NO es una conexión de audio?",
+      "options": [
+        {
+          "label": "a",
+          "text": "TRS."
+        },
+        {
+          "label": "b",
+          "text": "XLR."
+        },
+        {
+          "label": "c",
+          "text": "RCA."
+        },
+        {
+          "label": "d",
+          "text": "TXR."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 61,
+      "stem": "Pregunta 61: ¿Qué característica podemos manipular en un condensador variable?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Su intensidad."
+        },
+        {
+          "label": "b",
+          "text": "Su resistencia."
+        },
+        {
+          "label": "c",
+          "text": "Su capacitancia."
+        },
+        {
+          "label": "d",
+          "text": "Su histéresis."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 62,
+      "stem": "Pregunta 62: En una resistencia de código de colores estándar de 4 bandas, ¿qué indica la cuarta?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Tolerancia del valor de la resistencia."
+        },
+        {
+          "label": "b",
+          "text": "Número de ceros."
+        },
+        {
+          "label": "c",
+          "text": "Primer dígito."
+        },
+        {
+          "label": "d",
+          "text": "Segundo dígito."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 63,
+      "stem": "Pregunta 63: ¿Un varistor VDR protege de?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Sobreintensidades."
+        },
+        {
+          "label": "b",
+          "text": "Sobrecalentamiento."
+        },
+        {
+          "label": "c",
+          "text": "Campos magnéticos (compatibilidad electromagnética)."
+        },
+        {
+          "label": "d",
+          "text": "Sobretensiones."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 64,
+      "stem": "Pregunta 64: ¿Cuál de los siguientes es un cliente de correo electrónico?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Mozilla Thunderbird."
+        },
+        {
+          "label": "b",
+          "text": "Android."
+        },
+        {
+          "label": "c",
+          "text": "Safari."
+        },
+        {
+          "label": "d",
+          "text": "Apple."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 65,
+      "stem": "Pregunta 65: ¿En una dirección de correo electrónico el símbolo @ separa?",
+      "options": [
+        {
+          "label": "a",
+          "text": "El cliente del usuario."
+        },
+        {
+          "label": "b",
+          "text": "El nombre del usuario del dominio."
+        },
+        {
+          "label": "c",
+          "text": "El usuario del cliente."
+        },
+        {
+          "label": "d",
+          "text": "Todas las anteriores son correctas."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 66,
+      "stem": "Pregunta 66: ¿Indica qué escala corresponde a ampliación en un plano?",
+      "options": [
+        {
+          "label": "a",
+          "text": "20:1."
+        },
+        {
+          "label": "b",
+          "text": "5:20."
+        },
+        {
+          "label": "c",
+          "text": "1:20."
+        },
+        {
+          "label": "d",
+          "text": "20:10."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 67,
+      "stem": "Pregunta 67: De conformidad con la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres en su artículo 50 ¿Qué Ministerio creará un distintivo para reconocer a aquellas empresas que destaquen por la aplicación de políticas de igualdad de trato y de oportunidades con sus trabajadores y trabajadoras, que podrá ser utilizado en el tráfico comercial de la empresa y con fines publicitarios?",
+      "options": [
+        {
+          "label": "a",
+          "text": "El Ministerio de Educación, Formación Profesional y Deportes."
+        },
+        {
+          "label": "b",
+          "text": "El Ministerio de Igualdad."
+        },
+        {
+          "label": "c",
+          "text": "El Ministerio de Cultura."
+        },
+        {
+          "label": "d",
+          "text": "El Ministerio de Trabajo y Asuntos Sociales."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 68,
+      "stem": "Pregunta 68: En relación con las permutas el II Convenio Colectivo del Personal Laboral de Administración y Servicios de las Universidades Públicas de Castilla y León indica:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Sólo se permiten entre personal laboral fijo en activo."
+        },
+        {
+          "label": "b",
+          "text": "Sólo se permiten entre personal al que le falten menos de 5 años para jubilarse."
+        },
+        {
+          "label": "c",
+          "text": "Sólo se permiten entre personal que lleve menos de 5 años de servicio."
+        },
+        {
+          "label": "d",
+          "text": "Puede solicitarlo el personal en excedencia forzosa."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 69,
+      "stem": "Pregunta 69: Los generadores de calor que utilicen biocombustible sólido tendrán?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Una válvula de seguridad tarada a 1 bar por encima de la presión de trabajo del generador. Esta válvula en su zona de descarga deberá estar conducida hasta sumidero."
+        },
+        {
+          "label": "b",
+          "text": "Una válvula de seguridad tarada a 1,5 bar por encima de la presión de trabajo del generador. Esta válvula en su zona de descarga deberá estar conducida hasta sumidero."
+        },
+        {
+          "label": "c",
+          "text": "Una válvula de seguridad tarada a 2 bar por encima de la presión de trabajo del generador. Esta válvula en su zona de descarga deberá estar conducida hasta sumidero."
+        },
+        {
+          "label": "d",
+          "text": "Una válvula de seguridad tarada a 2,5 bar por encima de la presión de trabajo del generador. Esta válvula en su zona de descarga deberá estar conducida hasta sumidero."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 70,
+      "stem": "Pregunta 70: El símbolo * corresponde a?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Resistencia variable."
+        },
+        {
+          "label": "b",
+          "text": "Diodo."
+        },
+        {
+          "label": "c",
+          "text": "Condensador variable."
+        },
+        {
+          "label": "d",
+          "text": "Rectificador."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 71,
+      "stem": "Pregunta 71: El símbolo (F') corresponde a?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Conductor bifásico."
+        },
+        {
+          "label": "b",
+          "text": "Detector de fuego."
+        },
+        {
+          "label": "c",
+          "text": "Interruptor diferencial bipolar."
+        },
+        {
+          "label": "d",
+          "text": "Interruptor bipolar."
+        }
+      ],
+      "correct_answer": "d"
+    }
+  ]
 }
