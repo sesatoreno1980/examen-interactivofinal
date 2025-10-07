@@ -1,234 +1,234 @@
 {
-  "questions": [
-    {
-      "number": 1,
-      "stem": "Pregunta 1: ¿En qué casos la solicitud será considerada excesiva según la ley Orgánica 3/2018?",
-      "options": [
+    "questions": [
         {
-          "label": "a",
-          "text": "Cuando se ejerza el derecho de acceso en más de una ocasión durante el plazo de seis meses."
+            "number": 1,
+            "stem": "Pregunta 1: ¿En qué casos la solicitud será considerada excesiva según la ley Orgánica 3/2018?",
+            "options": [
+                {
+                    "label": "a",
+                    "text": "Cuando se ejerza el derecho de acceso en más de una ocasión durante el plazo de seis meses."
+                },
+                {
+                    "label": "b",
+                    "text": "Cuando el afectado elija un medio distinto al que se le ofrece que suponga un coste desproporcionado."
+                },
+                {
+                    "label": "c",
+                    "text": "Cuando se ejerza el derecho de acceso en más de cinco ocasiones durante el plazo de seis meses."
+                },
+                {
+                    "label": "d",
+                    "text": "Cuando el afectado solicite una cantidad de datos superior al establecido."
+                }
+            ],
+            "correct_answer": "b"
         },
         {
-          "label": "b",
-          "text": "Cuando el afectado elija un medio distinto al que se le ofrece que suponga un coste desproporcionado."
+            "number": 2,
+            "stem": "Pregunta 2: Respecto a lo establecido en la ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, sobre el derecho de acceso ¿En qué casos la solicitud será considerada excesiva?",
+            "options": [
+                {
+                    "label": "a",
+                    "text": "Cuando se ejerza el derecho de acceso en más de una ocasión durante el plazo de seis meses."
+                },
+                {
+                    "label": "b",
+                    "text": "Cuando el afectado elija un medio distinto al que se le ofrece que suponga un coste desproporcionado."
+                },
+                {
+                    "label": "c",
+                    "text": "Cuando se ejerza el derecho de acceso en más de cinco ocasiones durante el plazo de seis meses."
+                },
+                {
+                    "label": "d",
+                    "text": "Cuando el afectado solicite una cantidad de datos superior al establecido."
+                }
+            ],
+            "correct_answer": "b"
         },
         {
-          "label": "c",
-          "text": "Cuando se ejerza el derecho de acceso en más de cinco ocasiones durante el plazo de seis meses."
+            "number": 3,
+            "stem": "Pregunta 3: ¿De conformidad con la ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho de acceso del afectado se ejercitará de acuerdo con lo establecido en el artículo 15 del?",
+            "options": [
+                {
+                    "label": "a",
+                    "text": "Reglamento (UE) 2014/679."
+                },
+                {
+                    "label": "b",
+                    "text": "Reglamento (UE) 2015/679."
+                },
+                {
+                    "label": "c",
+                    "text": "Reglamento (UE) 2016/679."
+                },
+                {
+                    "label": "d",
+                    "text": "Reglamento (UE) 2017/679."
+                }
+            ],
+            "correct_answer": "c"
         },
         {
-          "label": "d",
-          "text": "Cuando el afectado solicite una cantidad de datos superior al establecido."
+            "number": 4,
+            "stem": "Pregunta 4: ¿De conformidad con la ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, los solicitantes de información en qué lengua/s se podrán dirigir a las Administraciones Públicas?",
+            "options": [
+                {
+                    "label": "a",
+                    "text": "Únicamente en español."
+                },
+                {
+                    "label": "b",
+                    "text": "Tanto en inglés como en español."
+                },
+                {
+                    "label": "c",
+                    "text": "En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión."
+                },
+                {
+                    "label": "d",
+                    "text": "En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión, así como en la lengua o lenguas del país de origen del solicitante."
+                }
+            ],
+            "correct_answer": "c"
+        },
+        {
+            "number": 5,
+            "stem": "Pregunta 5: Según establece el artículo 24 de la ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿Cuál es el plazo para reclamar ante el Consejo de Transparencia?",
+            "options": [
+                {
+                    "label": "a",
+                    "text": "La reclamación se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
+                },
+                {
+                    "label": "b",
+                    "text": "La reclamación se interpondrá en el plazo de cuarenta días a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
+                },
+                {
+                    "label": "c",
+                    "text": "La reclamación se interpondrá en el plazo de cuarenta y cinco días a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
+                },
+                {
+                    "label": "d",
+                    "text": "La reclamación se interpondrá en el plazo de dos meses a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
+                }
+            ],
+            "correct_answer": "a"
+        },
+        {
+            "number": 6,
+            "stem": "Pregunta 6: Según la ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres en su artículo 14, ¿Cuáles NO serán criterios generales de actuación de los Poderes Públicos?",
+            "options": [
+                {
+                    "label": "a",
+                    "text": "La integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral, social, cultural y artística, con el fin de evitar la segregación laboral y eliminar las diferencias retributivas, así como potenciar el crecimiento del empresariado femenino en todos los ámbitos que abarque el conjunto de políticas y el valor del trabajo de las mujeres, incluido el doméstico."
+                },
+                {
+                    "label": "b",
+                    "text": "La participación de mujeres y hombres en las candidaturas electorales y en la toma de decisiones en una proporción de 60/40%."
+                },
+                {
+                    "label": "c",
+                    "text": "La implantación de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales, culturales y artísticas."
+                },
+                {
+                    "label": "d",
+                    "text": "El fomento de instrumentos de colaboración entre las distintas Administraciones públicas y los agentes sociales, las asociaciones de mujeres y otras entidades privadas."
+                }
+            ],
+            "correct_answer": "b"
+        },
+        {
+            "number": 7,
+            "stem": "Pregunta 7: Según la ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres en su artículo 29, ¿A quién corresponde promover el deporte femenino?",
+            "options": [
+                {
+                    "label": "a",
+                    "text": "Al Congreso de los Diputados"
+                },
+                {
+                    "label": "b",
+                    "text": "Al Consejo de Ministros."
+                },
+                {
+                    "label": "c",
+                    "text": "Al Gobierno."
+                },
+                {
+                    "label": "d",
+                    "text": "Al Senado."
+                }
+            ],
+            "correct_answer": "c"
+        },
+        {
+            "number": 8,
+            "stem": "Pregunta 8: Entre las partes que acuerdan el II Convenio Colectivo del Personal Laboral de Administración y Servicios de las Universidades Públicas de Castilla y León están:",
+            "options": [
+                {
+                    "label": "a",
+                    "text": "Los sindicatos FETE-UGT, CSI-CSIF, CCOO y STECYL."
+                },
+                {
+                    "label": "b",
+                    "text": "Las universidades de Burgos, León, Salamanca y Valladolid y Los Sindicatos con representación en las mismas."
+                },
+                {
+                    "label": "c",
+                    "text": "Las universidades y los sindicatos de Castilla y León."
+                },
+                {
+                    "label": "d",
+                    "text": "Los sindicatos FETE-UGT y CSI-CSIF."
+                }
+            ],
+            "correct_answer": "d"
+        },
+        {
+            "number": 9,
+            "stem": "Pregunta 9: Según el II Convenio Colectivo del Personal Laboral de Administración y Servicios de las Universidades Públicas de Castilla y León, en relación con la organización del trabajo, ¿quién es responsable de su aplicación práctica?",
+            "options": [
+                {
+                    "label": "a",
+                    "text": "Su aplicación práctica corresponderá a los Rectores."
+                },
+                {
+                    "label": "b",
+                    "text": "Su aplicación práctica corresponderá a los Gerentes."
+                },
+                {
+                    "label": "c",
+                    "text": "Es facultad exclusiva de la Comisión Paritaria."
+                },
+                {
+                    "label": "d",
+                    "text": "Es facultad exclusiva de los Rectores."
+                }
+            ],
+            "correct_answer": "b"
+        },
+        {
+            "number": 10,
+            "stem": "Pregunta 10: Según el artículo 69 del Estatuto de la Universidad de León, en las elecciones a Claustro, en el sector de personal de administración y servicios, ¿cómo se presentarán las candidaturas?",
+            "options": [
+                {
+                    "label": "a",
+                    "text": "Se presentarán candidaturas en listas cerradas."
+                },
+                {
+                    "label": "b",
+                    "text": "Se presentarán candidaturas en listas abiertas."
+                },
+                {
+                    "label": "c",
+                    "text": "Se presentarán candidaturas individuales."
+                },
+                {
+                    "label": "d",
+                    "text": "Se formarán dos colegios electorales."
+                }
+            ],
+            "correct_answer": "c"
         }
-      ],
-      "correct_answer": "b"
-    },
-    {
-      "number": 2,
-      "stem": "Pregunta 2: Respecto a lo establecido en la ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, sobre el derecho de acceso ¿En qué casos la solicitud será considerada excesiva?",
-      "options": [
-        {
-          "label": "a",
-          "text": "Cuando se ejerza el derecho de acceso en más de una ocasión durante el plazo de seis meses."
-        },
-        {
-          "label": "b",
-          "text": "Cuando el afectado elija un medio distinto al que se le ofrece que suponga un coste desproporcionado."
-        },
-        {
-          "label": "c",
-          "text": "Cuando se ejerza el derecho de acceso en más de cinco ocasiones durante el plazo de seis meses."
-        },
-        {
-          "label": "d",
-          "text": "Cuando el afectado solicite una cantidad de datos superior al establecido."
-        }
-      ],
-      "correct_answer": "b"
-    },
-    {
-      "number": 3,
-      "stem": "Pregunta 3: ¿De conformidad con la ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho de acceso del afectado se ejercitará de acuerdo con lo establecido en el artículo 15 del?",
-      "options": [
-        {
-          "label": "a",
-          "text": "Reglamento (UE) 2014/679."
-        },
-        {
-          "label": "b",
-          "text": "Reglamento (UE) 2015/679."
-        },
-        {
-          "label": "c",
-          "text": "Reglamento (UE) 2016/679."
-        },
-        {
-          "label": "d",
-          "text": "Reglamento (UE) 2017/679."
-        }
-      ],
-      "correct_answer": "c"
-    },
-    {
-      "number": 4,
-      "stem": "Pregunta 4: ¿De conformidad con la ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, los solicitantes de información en qué lengua/s se podrán dirigir a las Administraciones Públicas?",
-      "options": [
-        {
-          "label": "a",
-          "text": "Únicamente en español."
-        },
-        {
-          "label": "b",
-          "text": "Tanto en inglés como en español."
-        },
-        {
-          "label": "c",
-          "text": "En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión."
-        },
-        {
-          "label": "d",
-          "text": "En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión, así como en la lengua o lenguas del país de origen del solicitante."
-        }
-      ],
-      "correct_answer": "c"
-    },
-    {
-      "number": 5,
-      "stem": "Pregunta 5: Según establece el artículo 24 de la ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿Cuál es el plazo para reclamar ante el Consejo de Transparencia?",
-      "options": [
-        {
-          "label": "a",
-          "text": "La reclamación se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
-        },
-        {
-          "label": "b",
-          "text": "La reclamación se interpondrá en el plazo de cuarenta días a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
-        },
-        {
-          "label": "c",
-          "text": "La reclamación se interpondrá en el plazo de cuarenta y cinco días a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
-        },
-        {
-          "label": "d",
-          "text": "La reclamación se interpondrá en el plazo de dos meses a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
-        }
-      ],
-      "correct_answer": "a"
-    },
-    {
-      "number": 6,
-      "stem": "Pregunta 6: Según la ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres en su artículo 14, ¿Cuáles NO serán criterios generales de actuación de los Poderes Públicos?",
-      "options": [
-        {
-          "label": "a",
-          "text": "La integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral, social, cultural y artística, con el fin de evitar la segregación laboral y eliminar las diferencias retributivas, así como potenciar el crecimiento del empresariado femenino en todos los ámbitos que abarque el conjunto de políticas y el valor del trabajo de las mujeres, incluido el doméstico."
-        },
-        {
-          "label": "b",
-          "text": "La participación de mujeres y hombres en las candidaturas electorales y en la toma de decisiones en una proporción de 60/40%."
-        },
-        {
-          "label": "c",
-          "text": "La implantación de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales, culturales y artísticas."
-        },
-        {
-          "label": "d",
-          "text": "El fomento de instrumentos de colaboración entre las distintas Administraciones públicas y los agentes sociales, las asociaciones de mujeres y otras entidades privadas."
-        }
-      ],
-      "correct_answer": "b"
-    },
-    {
-      "number": 7,
-      "stem": "Pregunta 7: Según la ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres en su artículo 29, ¿A quién corresponde promover el deporte femenino?",
-      "options": [
-        {
-          "label": "a",
-          "text": "Al Congreso de los Diputados"
-        },
-        {
-          "label": "b",
-          "text": "Al Consejo de Ministros."
-        },
-        {
-          "label": "c",
-          "text": "Al Gobierno."
-        },
-        {
-          "label": "d",
-          "text": "Al Senado."
-        }
-      ],
-      "correct_answer": "c"
-    },
-    {
-      "number": 8,
-      "stem": "Pregunta 8: Entre las partes que acuerdan el II Convenio Colectivo del Personal Laboral de Administración y Servicios de las Universidades Públicas de Castilla y León están:",
-      "options": [
-        {
-          "label": "a",
-          "text": "Los sindicatos FETE-UGT, CSI-CSIF, CCOO y STECYL."
-        },
-        {
-          "label": "b",
-          "text": "Las universidades de Burgos, León, Salamanca y Valladolid y Los Sindicatos con representación en las mismas."
-        },
-        {
-          "label": "c",
-          "text": "Las universidades y los sindicatos de Castilla y León."
-        },
-        {
-          "label": "d",
-          "text": "Los sindicatos FETE-UGT y CSI-CSIF."
-        }
-      ],
-      "correct_answer": "d"
-    },
-    {
-      "number": 9,
-      "stem": "Pregunta 9: Según el II Convenio Colectivo del Personal Laboral de Administración y Servicios de las Universidades Públicas de Castilla y León, en relación con la organización del trabajo, ¿quién es responsable de su aplicación práctica?",
-      "options": [
-        {
-          "label": "a",
-          "text": "Su aplicación práctica corresponderá a los Rectores."
-        },
-        {
-          "label": "b",
-          "text": "Su aplicación práctica corresponderá a los Gerentes."
-        },
-        {
-          "label": "c",
-          "text": "Es facultad exclusiva de la Comisión Paritaria."
-        },
-        {
-          "label": "d",
-          "text": "Es facultad exclusiva de los Rectores."
-        }
-      ],
-      "correct_answer": "b"
-    },
-    {
-      "number": 10,
-      "stem": "Pregunta 10: Según el artículo 69 del Estatuto de la Universidad de León, en las elecciones a Claustro, en el sector de personal de administración y servicios, ¿cómo se presentarán las candidaturas?",
-      "options": [
-        {
-          "label": "a",
-          "text": "Se presentarán candidaturas en listas cerradas."
-        },
-        {
-          "label": "b",
-          "text": "Se presentarán candidaturas en listas abiertas."
-        },
-        {
-          "label": "c",
-          "text": "Se presentarán candidaturas individuales."
-        },
-        {
-          "label": "d",
-          "text": "Se formarán dos colegios electorales."
-        }
-      ],
-      "correct_answer": "c"
-    }
-  ]
+    ]
 }
